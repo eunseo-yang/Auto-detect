@@ -20,7 +20,7 @@ TestData_2 (COCO) https://public.roboflow.com/object-detection/microsoft-coco-su
 
 Related Repository
 ------------------
-WEB Front - https://github.com/JangBomi/Object_Detection_Front
+WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
 WEB API - https://github.com/JangBomi/Object_Detection_API
 
 Team Member
