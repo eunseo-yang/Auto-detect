@@ -18,6 +18,11 @@ yolo 구조 파악 https://wiserloner.tistory.com/1247
 TestData_1 (BCCD) https://github.com/Shenggan/BCCD_Dataset/tree/master/BCCD   
 TestData_2 (COCO) https://public.roboflow.com/object-detection/microsoft-coco-subset   
 
+Related Repository
+------------------
+WEB Front - https://github.com/JangBomi/Object_Detection_Front
+WEB API - https://github.com/JangBomi/Object_Detection_API
+
 Team Member
 -----------
 양은서 (eunseo1092@ewhain.com) 
