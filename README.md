@@ -1,11 +1,6 @@
-# Object-Detection
+# AUTO.DETECT
+A custodian exists at the entrance to detect prohibited items when entering the  library, and if a person detects them, it is difficult and inefficient to identify all people who use prohibited items from entering the library. To this end, an automatic system is built to automatically detect, record,  and warn off prohibited items.
 
-
-프로젝트에 대한 소개
---------------------
-반입 금지 물품 검출을 위한 실시간 영상 속 객체 탐지 프로젝트이다.    
-사용층은 반입 물품(혹은 물체)을 검사하는 관리인이며, 각자의 상황/공간에 맞게 원하는 검출 품목을 고르면 해당 물품만 검출 대상이되는 [물체 검출 통합 관리 사이트 제작]을 목표으로 한다.
-실시간 객체 탐지 알고리즘인 Yolov5를 이용하며, 사이트 제작에 있어 Django 환경을 이용한다.
 
 Reference
 ---------
@@ -21,7 +16,8 @@ TestData_2 (COCO) https://public.roboflow.com/object-detection/microsoft-coco-su
 Related Repository
 ------------------
 WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
-WEB API - https://github.com/JangBomi/Object_Detection_API
+WEB API - https://github.com/JangBomi/Object_Detection_API <br>
+Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
 
 Team Member
 -----------
