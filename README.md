@@ -2,6 +2,9 @@
 A custodian exists at the entrance to detect prohibited items when entering the  library, and if a person detects them, it is difficult and inefficient to identify all people who use prohibited items from entering the library. To this end, an automatic system is built to automatically detect, record,  and warn off prohibited items.
 
 
+전체 코드는 이 주소에서 확인 가능합니다. https://github.com/Growth17-Graduation-Project/AUTO.DETECT
+
+
 Reference
 ---------
 yolo 논문 https://arxiv.org/pdf/1506.02640.pdf   
