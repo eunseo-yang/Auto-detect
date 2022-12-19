@@ -1,0 +1,33 @@
+.PersonBar{
+  width: 240px;
+  height: 300px;
+  padding:0;
+  margin: 0;
+  border: 1px;
+  .PersonImage{
+    margin: 30px 50px;
+    width: 140px;
+    height: 140px;
+    border-radius: 30%;
+    padding: 20px;
+    background-color: aliceblue;
+  }
+
+  .PersonName{
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 60px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+
+  .ChangeInfo{
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+  }
+}

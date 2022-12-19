@@ -1,0 +1,32 @@
+.Button {
+
+  height: 5rem;
+  width: 10rem;
+
+  right: 5%;
+  bottom: 5%;
+  position: fixed;
+
+  border: 5px solid #0B0B3B;
+  border-radius: 0.5em;
+  background-color: white;
+
+
+
+  cursor: pointer;
+
+  box-shadow: 3px 3px 3px 3px darkgrey;
+
+  font-size: 2em;
+  color: #0B0B3B;
+  line-height: 5rem;
+  text-align: center;
+
+  &:hover {
+    background-color: #0B0B3B;
+    box-shadow: 3px 3px 3px 3px darkgrey;
+    color: black;
+  };
+
+
+}

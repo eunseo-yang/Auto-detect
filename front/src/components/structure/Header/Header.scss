@@ -1,0 +1,54 @@
+@import "/src/styles/utils.scss";
+
+.header {
+  background: #0B0B3B;
+  z-index: 1;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  /* width: 100% */
+  left: 0;
+  right: 0;
+  box-shadow: 0 2px 2px dimgrey;
+
+
+  .logo {
+    color: white;
+
+    font-weight: 800;
+    font-size: 2rem;
+
+    cursor: pointer;
+
+    margin-left: 2rem;
+
+    user-select: none;
+  }
+
+  .description {
+    font-size: 0.8rem;
+    font-weight:500;
+  }
+
+  .logout {
+    margin-left: auto;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    color: white;
+    text-align: center;
+
+    font-weight: 800;
+    font-size: 2rem;
+
+    cursor: pointer;
+  }
+
+  .logoutText {
+    color: white;
+    margin-top: 0;
+    font-weight: 80;
+    font-size: 0.8rem;
+  }
+}
